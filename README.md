@@ -1,3 +1,1 @@
-# Example Repository
-
-This is an example repository created using MCP tools.
+IyBFeGFtcGxlIFJlcG9zaXRvcnkgDQoNClRoaXMgaXMgYW4gZXhhbXBsZSByZXBvc2l0b3J5IGNyZWF0ZWQgdXNpbmcgTUNQIHRvb2xzLg==
